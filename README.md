@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi — I'm Mohaned Ahmed
 
-<!--
-**Mohaned-Ahmed-Elsayed/Mohaned-Ahmed-Elsayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI engineer  & IoT developer 
 
-Here are some ideas to get you started:
+🔭 Current projects
+- **ESP32-CAM** face detect, streaming on a webpage 
+- **system for shipment company ** for monitoring IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech
+Python · Flask · ESP32 · MicroPython · Selenium · HTML/CSS · SQLite 
+
+📫 Reach me
+- LinkedIn: www.linkedin.com/in/mohaned-ahmed-b4425a342
+- Email: mohanedhonda66@gmail.com
+
+---
+
+### Selected projects
+- [RFID Attendance System](https://github.com/yourusername/rfid-attendance)
+- [ESP32-CAM Demo](https://github.com/yourusername/esp32-cam)
+- [Flask Dashboard](https://github.com/yourusername/flask-dashboard)
+
+![Mohaned's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohaned-Ahmed-Elsayed&show_icons=true&theme=tokyonight)
