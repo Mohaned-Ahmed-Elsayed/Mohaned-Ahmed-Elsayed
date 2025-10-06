@@ -16,8 +16,7 @@ Python · Flask · ESP32 · MicroPython · Selenium · HTML/CSS · SQLite
 ---
 
 ### Selected projects
-- [RFID Attendance System](https://github.com/yourusername/rfid-attendance)
-- [ESP32-CAM Demo](https://github.com/yourusername/esp32-cam)
-- [Flask Dashboard](https://github.com/yourusername/flask-dashboard)
+- [face recognition flask](https://github.com/Mohaned-Ahmed-Elsayed/face-recognition-flask-app)
+
 
 ![Mohaned's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohaned-Ahmed-Elsayed&show_icons=true&theme=tokyonight)
