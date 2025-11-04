@@ -4,8 +4,9 @@
 
 🔭 Current projects
 - **ESP32-CAM** face detect, streaming on a webpage 
-- **system for shipment company ** for monitoring IoT
-
+- **system for ERC shipment company** for monitoring IoT
+- **LANGUAGE TRANSULATOR** simple module with userfrinedly interface
+  
 🛠️ Tech
 Python · Flask · ESP32 · MicroPython · Selenium · HTML/CSS · SQLite 
 
