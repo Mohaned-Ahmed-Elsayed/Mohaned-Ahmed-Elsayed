@@ -32,9 +32,3 @@
 
 - LinkedIn: [linkedin.com/in/mohanedahmed1](https://www.linkedin.com/in/mohanedahmed1)
 - Email: [mohanedahmedx0@gmail.com](mailto:mohanedahmedx0@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohaned-Ahmed-Elsayed&show_icons=true&theme=tokyonight" alt="Mohaned's GitHub stats" />
-</p>
